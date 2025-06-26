@@ -1,3 +1,5 @@
+![Banner](assets/caseFit.png)
+
 **Autor:** Leon Huber [leonerwinhube@gmail.com](mailto:leonerwinhube@gmail.com)  
 **Datum:** 2025-04-29  
 
@@ -19,9 +21,7 @@ Here's the complete assembled btwArch showing the final product in action:
 ## CAD Model & Case Design:
 The case features a modern, minimalist design with precise tolerances for perfect component fit. The assembly uses standard hardware for easy manufacturing and repair.
 
-<img src="assets/caseFit.png" alt="caseFit" width="614"/>
 <img src="assets/left_CaseFit.png" alt="left_CaseFit" width="400"/>
-
 
 *3D model showing how all components fit together from different angles*
 
